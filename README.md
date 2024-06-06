@@ -1,6 +1,6 @@
 ### Reposit-rio-da-Kamilla
-Bem vindos ao meu Repostitório! 😃 
-Sou professora de Tecnologia e Robótica no Estado de São Paulo.
+**Bem vindos ao meu Repositório!** 😃 
+Sou professora de _Tecnologia e Robótica_ no Estado de São Paulo.
 Aqui compartilharei os códigos que fizemos nas Aula de Tecnologia e Robótica. 📓🖥️🖱️
 
 Você pode entrar em contato comigo ⬇️
